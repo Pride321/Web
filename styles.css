@@ -1,0 +1,939 @@
+
+.events{position: absolute;
+  height: 23px;
+width: 63px;
+left: 684px;
+top: 41px;
+border-radius: nullpx;
+font-family: Inter;
+font-size: 19px;
+font-weight: 600;
+line-height: 23px;
+letter-spacing: 0em;
+text-align: center;
+color: #948D8CCC;
+
+}
+.rectangle{
+  position: absolute;
+  background: #FFFFFF;
+  box-shadow: 0px 7px 27px 7px #00000040;
+  height: 103px;
+width: 1478px;
+left: 0px;
+top: 0px;
+border-radius: 0px;
+
+}
+
+ul{
+  list-style-type: none;
+}
+
+.login1{
+ /* Login */
+
+position: absolute;
+width: 146px;
+height: 25px;
+left: 1266px;
+top: 41px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 17px;
+line-height: 21px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+}
+
+.login{
+position: absolute;
+height: 49px;
+width: 125px;
+left: 1276px;
+top: 27px;
+border-radius: 36.5px;
+background-color: #DF404B;
+box-shadow: 0px 1px 10px 1px #00000040;
+
+}
+.logo{
+  position: absolute;
+  height: 68px;
+width: 174px;
+left: 100px;
+top: 19px;
+border-radius: 0px;
+
+}
+li.home{
+  color: red;
+  position: absolute;
+  font-family: Inter;
+font-size: 19px;
+font-weight: 600;
+line-height: 23px;
+letter-spacing: 0em;
+text-align: center;
+height: 23px;
+  width: 55px;
+  left: 467px;
+  top: 41px;
+  border-radius: 0px;
+ 
+}
+
+.destinations{position: absolute;
+  height: 23px;
+width: 116px;
+left: 545px;
+top: 41px;
+border-radius: 0px;
+font-family: Inter;
+font-size: 19px;
+font-weight: 600;
+line-height: 23px;
+letter-spacing: 0em;
+text-align: center;
+color: #948D8CCC;
+
+}
+
+.membership{
+  height: 23px;
+width: 116px;
+left: 770px;
+top: 41px;
+border-radius: 0px;
+font-family: Inter;
+font-size: 19px;
+font-weight: 600;
+line-height: 23px;
+letter-spacing: 0em;
+text-align: center;
+color: #948D8CCC;
+position: absolute;
+
+}
+
+.contact{
+  height: 23px;
+width: 101px;
+left: 909px;
+top: 41px;
+border-radius: 0px;
+font-family: Inter;
+font-size: 19px;
+font-weight: 600;
+line-height: 23px;
+letter-spacing: 0em;
+text-align: center;
+color: #948D8CCC;
+position: absolute;
+
+}
+.signup{
+  height: 23px;
+width: 69px;
+left: 1179px;
+top: 39px;
+border-radius: 0px;
+font-family: Inter;
+font-size: 19px;
+font-weight: 600;
+line-height: 23px;
+letter-spacing: 0em;
+text-align: center;
+color: #948D8CCC;
+position: absolute;
+}
+
+.ali{
+  /* Rectangle 7 */
+
+position: absolute;
+width: 1478px;
+height: 833px;
+left: 0px;
+top: 103px;
+
+background: linear-gradient(180deg, rgba(38, 24, 24, 0.295) 0%, rgba(0, 0, 0, 0.401048) 50.74%, rgba(38, 24, 24, 0.21) 97.41%);
+
+}
+
+.r3{
+  /* Rectangle 7 */
+
+position: absolute;
+width: 1478px;
+height: 833px;
+left: 0px;
+top: 103px;
+
+background: linear-gradient(180deg, rgba(38, 24, 24, 0.295) 0%, rgba(0, 0, 0, 0.401048) 50.74%, rgba(38, 24, 24, 0.21) 97.41%);
+
+}
+
+.plan{
+  /* Plan your trip with Own Holiday Club */
+
+position: absolute;
+width: 602px;
+height: 184px;
+left: 85px;
+top: 234px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 72px;
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+}
+
+.best{
+  /* The best travel agency in India, Providing travel services in more than 7 countries */
+
+position: absolute;
+width: 514px;
+height: 29px;
+left: 85px;
+top: 438px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 19px;
+line-height: 23px;
+
+color: rgba(255, 255, 255, 0.8);
+
+
+}
+
+.explore{
+  /* Rectangle 9 */
+
+position: absolute;
+width: 209px;
+height: 49px;
+left: 85px;
+top: 520px;
+
+background: #DF404B;
+box-shadow: 0px 1px 20px 5px rgba(0, 0, 0, 0.25);
+border-radius: 36.5px;
+
+}
+
+.r4{
+  /* Rectangle 10 */
+
+position: absolute;
+width: 716px;
+height: 461px;
+left: 685px;
+top: 169px;
+
+background: #FFFFFF;
+box-shadow: 0px 5px 51px 5px rgba(0, 0, 0, 0.25);
+border-radius: 19px;
+
+}
+
+.tour{
+  /* Explore Tours */
+
+position: absolute;
+width: 146px;
+height: 25px;
+left: 117px;
+top: 532px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 17px;
+line-height: 21px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+}
+
+.jogin{
+  /* Login */
+
+position: absolute;
+width: 146px;
+height: 25px;
+left: 1266px;
+top: 39px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 17px;
+line-height: 21px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+}
+
+.yourname{
+  /* Your name */
+
+position: absolute;
+width: 72px;
+height: 17px;
+left: 724px;
+top: 207px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+color: rgba(0, 0, 0, 0.6);
+
+
+}
+
+.location{
+  /* Location */
+
+position: absolute;
+width: 59px;
+height: 17px;
+left: 1064px;
+top: 207px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+color: rgba(0, 0, 0, 0.6);
+
+
+}
+
+.name{
+  /* Your name */
+
+position: absolute;
+width: 72px;
+height: 17px;
+left: 724px;
+top: 289px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+color: rgba(0, 0, 0, 0.6);
+
+
+}
+
+.email{
+  /* Email address */
+
+position: absolute;
+width: 95px;
+height: 17px;
+left: 1064px;
+top: 289px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+color: rgba(0, 0, 0, 0.6);
+
+
+}
+
+.phone{/* Phone */
+
+  position: absolute;
+  width: 43px;
+  height: 17px;
+  left: 724px;
+  top: 373px;
+  
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 17px;
+  /* identical to box height */
+  
+  color: rgba(0, 0, 0, 0.6);
+  
+  }
+
+  .Budget{
+    /* Budget */
+
+position: absolute;
+width: 49px;
+height: 17px;
+left: 1064px;
+top: 373px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+color: rgba(0, 0, 0, 0.6);
+
+
+  }
+
+  .adults{
+    /* Adults */
+
+position: absolute;
+width: 44px;
+height: 17px;
+left: 724px;
+top: 461px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+color: rgba(0, 0, 0, 0.6);
+
+
+  }
+
+  .kids{
+    /* Kids */
+
+position: absolute;
+width: 31px;
+height: 17px;
+left: 881px;
+top: 461px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+color: rgba(0, 0, 0, 0.6);
+
+
+  }
+
+  .Check{
+    /* Check in */
+
+position: absolute;
+width: 59px;
+height: 17px;
+left: 1064px;
+top: 461px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+color: rgba(0, 0, 0, 0.6);
+
+
+  }
+
+  .out{
+    /* Check out */
+
+position: absolute;
+width: 70px;
+height: 17px;
+left: 1221px;
+top: 461px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+color: rgba(0, 0, 0, 0.6);
+
+
+  }
+
+  .r5{
+    /* Rectangle 11 */
+
+position: absolute;
+width: 138px;
+height: 38px;
+left: 719px;
+top: 558px;
+
+background: #DF404B;
+border-radius: 9px;
+
+  }
+
+  .submit{
+    /* Submit now */
+
+position: absolute;
+width: 74px;
+height: 16px;
+left: 751px;
+top: 569px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 13px;
+line-height: 16px;
+/* identical to box height */
+
+color: rgba(255, 255, 255, 0.9);
+
+
+  }
+
+  .lot{
+    /* Rectangle 8 */
+
+position: absolute;
+width: 125px;
+height: 49px;
+left: 1276px;
+top: 27px;
+
+background: #DF404B;
+box-shadow: 0px 1px 10px 1px rgba(0, 0, 0, 0.25);
+border-radius: 36.5px;
+
+  }
+
+  .log{
+    /* Login */
+
+position: absolute;
+width: 146px;
+height: 25px;
+left: 1266px;
+top: 39px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 17px;
+line-height: 21px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+  }
+  .r6{
+    /* Rectangle 11 */
+
+position: absolute;
+width: 295px;
+height: 38px;
+left: 719px;
+top: 234px;
+
+background: #EFEFEF;
+border-radius: 9px;
+
+  }
+  .r7{
+    /* Rectangle 11 */
+
+position: absolute;
+width: 295px;
+height: 38px;
+left: 1059px;
+top: 234px;
+
+background: #EFEFEF;
+border-radius: 9px;
+
+  }
+  .r8{
+/* Rectangle 11 */
+
+position: absolute;
+width: 295px;
+height: 38px;
+left: 719px;
+top: 316px;
+
+background: #EFEFEF;
+border-radius: 9px;
+
+  }
+
+  .r9{/* Rectangle 11 */
+
+    position: absolute;
+    width: 295px;
+    height: 38px;
+    left: 1059px;
+    top: 316px;
+    
+    background: #EFEFEF;
+    border-radius: 9px;
+    }
+    .r10{
+      /* Rectangle 11 */
+
+position: absolute;
+width: 295px;
+height: 38px;
+left: 719px;
+top: 400px;
+
+background: #EFEFEF;
+border-radius: 9px;
+
+    }
+
+    .r11{
+      /* Rectangle 11 */
+
+position: absolute;
+width: 295px;
+height: 38px;
+left: 1059px;
+top: 400px;
+
+background: #EFEFEF;
+border-radius: 9px;
+
+    }
+
+    .r12{
+      /* Rectangle 11 */
+
+position: absolute;
+width: 138px;
+height: 38px;
+left: 719px;
+top: 488px;
+
+background: #EFEFEF;
+border-radius: 9px;
+
+    }
+
+    .r13{
+      /* Rectangle 11 */
+
+position: absolute;
+width: 138px;
+height: 38px;
+left: 876px;
+top: 488px;
+
+background: #EFEFEF;
+border-radius: 9px;
+
+    }
+
+    .r14{
+      /* Rectangle 11 */
+
+position: absolute;
+width: 138px;
+height: 38px;
+left: 1059px;
+top: 488px;
+
+background: #EFEFEF;
+border-radius: 9px;
+
+    }
+
+    .r15{
+      /* Rectangle 11 */
+
+position: absolute;
+width: 138px;
+height: 38px;
+left: 1216px;
+top: 488px;
+
+background: #EFEFEF;
+border-radius: 9px;
+
+    }
+
+    input{
+      margin: 0%;
+      border: none;
+    }
+
+    .s1{
+      /* shape-1 1 */
+
+position: absolute;
+width: 1478px;
+height: 195px;
+left: 0px;
+top: 800px;
+
+background: url(shape-1.png);
+
+    }
+
+    .since{
+      /* Since 2012 */
+
+position: absolute;
+height: 90px;
+left: 65%;
+right: 15.83%;
+top: 850px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 45px;
+/* or 150% */
+
+color: #000000;
+
+
+    }
+
+    .pop{
+     /* Popular Desinations */
+
+position: absolute;
+height: 55.7px;
+left: 5.75%;
+right: 72.8%;
+top: 1003px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 45px;
+/* or 150% */
+
+color: #000000;
+
+
+
+
+    }
+
+    .h{
+      /* Holiday at the most beloved destinations all around the world with us. Get ready to explore the best of every vacation of yours with Own Holiday Club’s handpicked and unexplored locations in India and internationally. At Own Holiday Club, we plan your holiday packages in the most perfect and affordable way. Our specialized team assists you with tailor-made packages according to your needs. */
+
+position: absolute;
+width: 1320px;
+height: 54px;
+left: 85px;
+top: 1049px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+
+color: #8D8D8D;
+
+
+    }
+
+    .darsh{
+      position: absolute;
+      height: 350px;
+      width: 300px;
+      left: 85px;
+      top: 1149px;
+      border-radius: 7px;
+      
+    }
+
+    .chris{
+      position: absolute;
+      height: 350px;
+width: 300px;
+left: 421px;
+top: 1149px;
+border-radius: 7px;
+
+    }
+
+  .ish{
+    position: absolute;
+    height: 350px;
+width: 300px;
+left: 757px;
+top: 1149px;
+border-radius: 7px;
+
+  }
+
+  .sarang{
+    position: absolute;
+    height: 350px;
+width: 300px;
+left: 1093px;
+top: 1149px;
+border-radius: 7px;
+
+  }
+
+  .c1{
+    /* Rectangle 20 */
+
+position: absolute;
+width: 50px;
+height: 50px;
+left: 85px;
+top: 1537px;
+
+background: #DF404B;
+box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.25);
+border-radius: 36.5px;
+
+  }
+
+  .c2{
+    /* Rectangle 21 */
+
+position: absolute;
+width: 50px;
+height: 50px;
+left: 150px;
+top: 1537px;
+
+background: #DF404B;
+box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.25);
+border-radius: 36.5px;
+
+  }
+
+  .a1{
+    /* Vector */
+
+position: absolute;
+height: 14.44px;
+left: 7.1%;
+right: 92.32%;
+top: 1554px;
+
+background: #FFFFFF;
+
+  }
+
+  .a2{
+    /* Vector */
+
+position: absolute;
+height: 14.44px;
+left: 11.64%;
+right: 87.79%;
+top: 1553px;
+
+background: #FFFFFF;
+
+  }
+
+  .what{
+    /* What service we Offers ? */
+
+position: absolute;
+height: 56px;
+left: 5.68%;
+right: 67.93%;
+top: 1655px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 45px;
+/* or 150% */
+
+color: #000000;
+
+
+  }
+
+  .day{
+    /* Holiday at the most beloved destinations all around the world with us. Get ready to explore the best of every vacation of yours with Own Holiday Club’s handpicked and unexplored locations in India and internationally. At Own Holiday Club, we plan your holiday packages in the most perfect and affordable way. Our specialized team assists you with tailor-made packages according to your needs. */
+
+position: absolute;
+width: 1320px;
+height: 54px;
+left: 84px;
+top: 1711px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+
+color: #8D8D8D;
+
+
+  }
+  .jay{
+   /* Rectangle 26 */
+
+position: absolute;
+width: 613px;
+height: 693px;
+left: 85px;
+top: 1818px;
+
+background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.92) 99.85%);
+border-radius: 5px;
+
+  }
