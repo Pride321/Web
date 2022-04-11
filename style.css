@@ -1,0 +1,491 @@
+.social{
+    /* Social Media */
+
+position: absolute;
+height: 60px;
+left: 75.51%;
+right: 13.87%;
+top: 1048px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 60px;
+/* identical to box height, or 250% */
+
+color: #FFFFFF;
+
+
+}
+
+.info{
+    /* Information */
+
+position: absolute;
+height: 60px;
+left: 53.65%;
+right: 36.33%;
+top: 1048px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 60px;
+/* identical to box height, or 250% */
+
+color: #FFFFFF;
+
+
+}
+
+.about{
+    /* About us */
+
+position: absolute;
+height: 60px;
+left: 33.49%;
+right: 59.07%;
+top: 1048px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 60px;
+/* identical to box height, or 250% */
+
+color: #FFFFFF;
+
+
+}
+
+.own{
+    /* Own Holiday Club */
+
+position: absolute;
+height: 60px;
+left: 7.58%;
+right: 77.6%;
+top: 1048px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 60px;
+/* identical to box height, or 250% */
+
+color: #FFFFFF;
+
+
+}
+
+.r1{
+    /* Rectangle 30 */
+
+position: absolute;
+width: 1478px;
+height: 373px;
+left: 0px;
+top: 965px;
+
+background: #0A121F;
+
+}
+
+.holiday{
+    position: absolute;
+    height: 60px;
+width: 219px;
+left: 112px;
+top: 1048px;
+border-radius: nullpx;
+font-family: Poppins;
+font-size: 24px;
+font-weight: 700;
+line-height: 60px;
+letter-spacing: 0em;
+text-align: left;
+color: rgba(255, 255, 255, 1);
+
+}
+
+.rectangle30{
+    height: 373px;
+width: 1478px;
+left: 0px;
+top: 965px;
+border-radius: 0px;
+position: absolute;
+background: rgba(10, 18, 31, 1);
+
+}
+
+.create{
+    height: 16px;
+width: 138px;
+left: 240.5556640625px;
+top: 579px;
+border-radius: nullpx;
+font-family: Inter;
+font-size: 13px;
+font-weight: 600;
+line-height: 16px;
+letter-spacing: 0em;
+text-align: center;
+color: rgba(255, 255, 255, 0.9);
+position: absolute;
+}
+.rectangle11{
+    height: 38px;
+width: 198px;
+left: 212px;
+top: 568px;
+border-radius: 3px;
+position: absolute;
+background: rgba(223, 64, 75, 1);
+
+}
+.lor{
+    height: 72px;
+width: 503px;
+left: 213px;
+top: 474px;
+border-radius: nullpx;
+position: absolute;
+font-family: Inter;
+font-size: 16px;
+font-weight: 500;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: left;
+color: rgba(255, 255, 255, 0.7);
+
+}
+.welcome{
+    height: 72px;
+width: 394px;
+left: 213px;
+top: 382px;
+border-radius: nullpx;
+position: absolute;
+font-family: Poppins;
+font-size: 48px;
+font-weight: 600;
+line-height: 72px;
+letter-spacing: 0em;
+text-align: center;
+color: white;
+}
+
+.done{
+ position: absolute;
+ height: 16px;
+width: 164px;
+left: 1017px;
+top: 672px;
+border-radius: nullpx;
+font-family: Inter;
+font-size: 13px;
+font-weight: 500;
+line-height: 16px;
+letter-spacing: 0em;
+text-align: center;
+color: #000000B2;
+
+}
+.submit{
+    height: 38px;
+width: 295px;
+left: 953px;
+top: 613px;
+border-radius: 3px;
+position: absolute;
+background: #DF404B;
+
+}
+.forgot{
+    position: absolute;
+    height: 16px;
+width: 115px;
+left: 1133px;
+top: 579px;
+border-radius: nullpx;
+font-family: Inter;
+font-size: 13px;
+font-weight: 500;
+line-height: 16px;
+letter-spacing: 0em;
+text-align: center;
+color: #000000B2;
+
+}
+.passwordone{
+    height: 38px;
+width: 295px;
+left: 953px;
+top: 527px;
+border-radius: 3px;
+position: absolute;
+background: #EFEFEF;
+
+}
+
+.password{
+    height: 17px;
+width: 67px;
+left: 953px;
+top: 500px;
+border-radius: nullpx;
+position: absolute;
+font-family: Inter;
+font-size: 14px;
+font-weight: 600;
+line-height: 17px;
+letter-spacing: 0em;
+text-align: left;
+color: #00000099;
+
+}
+
+.text{
+    position: absolute;
+    height: 38px;
+width: 295px;
+left: 953px;
+top: 444px;
+border-radius: 3px;
+background: #EFEFEF;
+
+}
+.email{
+    height: 17px;
+width: 95px;
+left: 953px;
+top: 417px;
+border-radius: nullpx;
+font-family: Inter;
+font-size: 14px;
+font-weight: 600;
+line-height: 17px;
+letter-spacing: 0em;
+text-align: left;
+color: #00000099;
+position: absolute;
+
+}
+
+.fill{
+    height: 16px;
+width: 235px;
+left: 981px;
+top: 360px;
+border-radius: nullpx;
+font-family: Inter;
+font-size: 13px;
+font-weight: 500;
+line-height: 16px;
+letter-spacing: 0em;
+text-align: center;
+color: #000000B2;
+position: absolute;
+
+}
+
+.loginform{
+    position: absolute;
+    height: 60px;
+    width: 67px;
+    left: 1067px;
+    top: 300px;
+    border-radius: nullpx;
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 60px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #000000;
+        
+}
+.rectangletwo{
+    position: absolute;
+    height: 965px;
+width: 1478px;
+left: 0px;
+top: 0px;
+border-radius: 0px;
+background: #00000059;
+
+}
+
+.rectanglethree{
+position: absolute;    
+height: 509px;
+width: 425px;
+left: 888px;
+top: 246px;
+border-radius: 5px;
+background: #FFFFFF;
+box-shadow: 0px 5px 30px -1px #00000040;
+
+}
+
+
+
+.events{position: absolute;
+    height: 23px;
+width: 63px;
+left: 684px;
+top: 41px;
+border-radius: nullpx;
+font-family: Inter;
+font-size: 19px;
+font-weight: 600;
+line-height: 23px;
+letter-spacing: 0em;
+text-align: center;
+color: #948D8CCC;
+
+}
+.rectangle{
+    position: absolute;
+    background: #FFFFFF;
+    box-shadow: 0px 7px 27px 7px #00000040;
+    height: 103px;
+width: 1478px;
+left: 0px;
+top: 0px;
+border-radius: 0px;
+
+}
+
+ul{
+    list-style-type: none;
+}
+
+.login1{
+   /* Login */
+
+position: absolute;
+width: 146px;
+height: 25px;
+left: 1266px;
+top: 39px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 17px;
+line-height: 21px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+}
+
+.login{
+position: absolute;
+height: 49px;
+width: 125px;
+left: 1276px;
+top: 27px;
+border-radius: 36.5px;
+background-color: #DF404B;
+box-shadow: 0px 1px 10px 1px #00000040;
+
+}
+.logo{
+    position: absolute;
+    height: 68px;
+width: 174px;
+left: 100px;
+top: 19px;
+border-radius: 0px;
+
+}
+li.home{
+    color: red;
+    position: absolute;
+    font-family: Inter;
+font-size: 19px;
+font-weight: 600;
+line-height: 23px;
+letter-spacing: 0em;
+text-align: center;
+height: 23px;
+    width: 55px;
+    left: 467px;
+    top: 41px;
+    border-radius: 0px;
+   
+}
+
+.destinations{position: absolute;
+    height: 23px;
+width: 116px;
+left: 545px;
+top: 41px;
+border-radius: 0px;
+font-family: Inter;
+font-size: 19px;
+font-weight: 600;
+line-height: 23px;
+letter-spacing: 0em;
+text-align: center;
+color: #948D8CCC;
+
+}
+
+.membership{
+    height: 23px;
+width: 116px;
+left: 770px;
+top: 41px;
+border-radius: 0px;
+font-family: Inter;
+font-size: 19px;
+font-weight: 600;
+line-height: 23px;
+letter-spacing: 0em;
+text-align: center;
+color: #948D8CCC;
+position: absolute;
+
+}
+
+.contact{
+    height: 23px;
+width: 101px;
+left: 909px;
+top: 41px;
+border-radius: 0px;
+font-family: Inter;
+font-size: 19px;
+font-weight: 600;
+line-height: 23px;
+letter-spacing: 0em;
+text-align: center;
+color: #948D8CCC;
+position: absolute;
+
+}
+.signup{
+    height: 23px;
+width: 69px;
+left: 1179px;
+top: 39px;
+border-radius: 0px;
+font-family: Inter;
+font-size: 19px;
+font-weight: 600;
+line-height: 23px;
+letter-spacing: 0em;
+text-align: center;
+color: #948D8CCC;
+position: absolute;
+}
+
